@@ -2,12 +2,13 @@ Eclipse Java project with (partial) Java implementation of the Scala implementat
 
 You must supply the file src/main/resources/twitter4j.properties yourself. The file lists the Twitter access tokens, which you can get at http://apps.twitter.com/. Make the following entries:
 
-# Twitter
+<pre># Twitter
 enableApplicationOnlyAuth=true
 oauth.consumerKey=...
 oauth.consumerSecret=...
 oauth.accessToken=...
 oauth.accessTokenSecret=...
+</pre>
 
 
  
