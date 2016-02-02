@@ -1,0 +1,4 @@
+<factorypath>
+    <factorypathentry kind="EXTJAR" id="C:\.m2\repository\org\openjdk\jmh\jmh-core\1.9.1\jmh-core-1.9.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="EXTJAR" id="C:\.m2\repository\org\openjdk\jmh\jmh-generator-annprocess\1.9.1\jmh-generator-annprocess-1.9.1.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
